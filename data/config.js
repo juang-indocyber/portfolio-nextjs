@@ -1,10 +1,10 @@
 export const meta = {
-  title: 'LeBron James - Web Developer and Designer',
+  title: 'Juang - Resume',
   description: 'Hey, I\'m LeBron. I\'m a web developer and designer building things people love.'
 }
 
 export const hero = {
-  title: "Hey there! I'm LeBron James.",
+  title: "Hey there! I'm Juang Sabit Al Nadiev.",
   desc: "I'm a web developer and designer building things people love."
 };
 
