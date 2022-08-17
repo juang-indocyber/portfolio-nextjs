@@ -1,11 +1,11 @@
 export const meta = {
   title: 'Juang - Resume',
-  description: 'Hey, I\'m LeBron. I\'m a web developer and designer building things people love.'
+  description: 'Hey, I\'m LeBron. I\'m a Software Engineer.'
 }
 
 export const hero = {
   title: "Hey there! I'm Juang Sabit Al Nadiev.",
-  desc: "I'm a web developer and designer building things people love."
+  desc: "I'm a Software Engineer."
 };
 
 export const projects = {
@@ -50,8 +50,7 @@ export const stack = {
 
 export const contact = {
   title: 'Contact Me',
-  email: 'lebron@gmail.com',
-  github: 'theking-lbj',
-  dribbble: 'theking-lbj',
-  linkedin: 'theking-lbj'
+  email: 'juangsabit7@gmail.com',
+  github: 'juangsabit',
+  linkedin: 'juangsabit'
 };
